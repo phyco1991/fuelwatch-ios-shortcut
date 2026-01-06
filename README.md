@@ -1,4 +1,4 @@
-# fuelwatch-ios-shortcut
+# FuelWatch iOS Shortcut (Get Petrol Prices)
 iOS Shortcut for FuelWatch (Western Australia) Petrol Prices
 
 Compatible with iOS 26 (and potentially earlier builds)
